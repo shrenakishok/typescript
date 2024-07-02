@@ -1,4 +1,4 @@
-#TypeScript Learning Journey
+**TypeScript Learning Journey**
 Welcome to my TypeScript Learning Journey repository! This repository is dedicated to my learning process in TypeScript. It contains various exercises, practice projects, and code snippets that I found useful along the way.
 
 **Contents**
